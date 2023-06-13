@@ -8,6 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
+    - name: demo1
     - name: jx-demo-0613
     scheduler: in-repo
   slack:
